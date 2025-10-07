@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+
+    "name": "steamcito_millennium",
+    "common_name": "Steamcito Currency Converter",
+    "description": "Muestra todos los productos de la tienda de Steam en pesos argentinos con impuestos incluidos."
+}

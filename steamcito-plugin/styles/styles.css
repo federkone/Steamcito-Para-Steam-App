@@ -1,0 +1,17 @@
+:root {
+    --example-color: #000;
+}
+
+/* Estilos optimizados para Steamcito */
+.steamcito-ars-price {
+  display: block;
+  color: #a3cf06;
+  font-size: 0.9em;
+  margin-top: 2px;
+  will-change: contents; /* Optimiza la actualización de precios */
+}
+
+/* Prevenir parpadeos durante las actualizaciones */
+[data-original-price] {
+  transition: opacity 0.1s;
+}
