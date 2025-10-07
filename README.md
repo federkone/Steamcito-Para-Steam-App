@@ -19,7 +19,7 @@ Steam hace uso de **React** para renderizar componentes web.
 
 ## Inspiración
 
-He tomado la idea original de **SteamCito** y la implementé en Steam gracias al cliente "Millennium Steam Homebrew", el cual expone la facilidad de inyectar modificaciones.
+He tomado la idea original de [Steamcito](https://github.com/emilianog94/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos) y la implementé en Steam gracias al cliente [Millennium Steam Homebrew](https://steambrew.app), el cual expone la facilidad de inyectar modificaciones.
 
 ## Requisitos de Instalación
 
