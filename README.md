@@ -1,8 +1,9 @@
 # Complemento de Conversión de Precios de Steam
 
 Este complemento permite traducir los precios de Steam a pesos argentinos para la aplicación de escritorio.
-
 Si lo deseas, puedes cambiar las APIs de obtención de valores de tipo de cambio contenidos en `main.py` para adaptarlo a tu región.
+
+Descarga: [click download](https://github.com/federkone/Steamcito-Para-Steam-App/releases/download/release/steamcito-plugin.zip)
 
 ## ¿Cómo funciona?
 
